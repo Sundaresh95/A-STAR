@@ -1,5 +1,5 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3> Date: 02/11/2026</h3>
+<h2> Date: 02/11/2026</h2>
 <h1>Name: SUNDARESH K </h1>
 <h1>Register Number: 212225220111 <h1>
 <H3>Aim:</H3>
